@@ -19,7 +19,7 @@ setResposta(dados.mensagem);
  
   return ( 
     <main style={{ maxWidth: 480, margin: "4rem auto", fontFamily: "sans-serif" }}> 
-      <h1>Meu primeiro deploy na Vercel</h1> 
+      <h1>Olá, mundo! Aqui é Emanuel</h1> 
       <p>Digite seu nome e clique no botão para chamar a API:</p> 
  
       <input 
